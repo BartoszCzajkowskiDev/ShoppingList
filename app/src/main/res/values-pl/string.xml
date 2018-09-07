@@ -2,5 +2,8 @@
 <resources>
     <string name="app_name">ShoppingList</string>
     <string name="action_settings">Ustawienia</string>
+    <string name="drawButton">Rysuj</string>
+    <string name="apiButton">API</string>
+    <string name="viewListButton">Widok</string>
     <string name="shoppingListButton">Lista zakupów</string>
 </resources>
